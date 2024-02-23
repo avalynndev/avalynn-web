@@ -6,16 +6,15 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "chronark.com",
-    template: "%s | chronark.com",
+    default: "avalynn.is-a.dev",
+    template: "%s | avalynn.is-a.dev",
   },
   description: "Co-founder of unkey.dev and founder of planetfall.io",
   openGraph: {
-    title: "chronark.com",
-    description:
-      "Co-founder of unkey.dev and founder of planetfall.io",
-    url: "https://chronark.com",
-    siteName: "chronark.com",
+    title: "avalynn.is-a.dev",
+    description: "Co-founder of unkey.dev and founder of planetfall.io",
+    url: "https://avalynn.is-a.dev",
+    siteName: "avalynn.is-a.dev",
     images: [
       {
         url: "https://chronark.com/og.png",
@@ -38,7 +37,7 @@ export const metadata: Metadata = {
     },
   },
   twitter: {
-    title: "Chronark",
+    title: "Avalynn",
     card: "summary_large_image",
   },
   icons: {
