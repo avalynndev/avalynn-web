@@ -9,15 +9,15 @@ export const metadata: Metadata = {
     default: "avalynn.is-a.dev",
     template: "%s | avalynn.is-a.dev",
   },
-  description: "Co-founder of unkey.dev and founder of planetfall.io",
+  description: "Building a website that can be used to watch anime anytime.",
   openGraph: {
     title: "avalynn.is-a.dev",
-    description: "Co-founder of unkey.dev and founder of planetfall.io",
+    description: "Building a website that can be used to watch anime anytime.",
     url: "https://avalynn.is-a.dev",
     siteName: "avalynn.is-a.dev",
     images: [
       {
-        url: "https://chronark.com/og.png",
+        url: "./og.png",
         width: 1920,
         height: 1080,
       },

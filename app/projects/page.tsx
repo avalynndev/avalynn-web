@@ -9,9 +9,9 @@ import { Eye } from "lucide-react";
 export const revalidate = 60;
 export default async function ProjectsPage() {
 
-  const featured = allProjects.find((project) => project.slug === "unkey")!;
-  const top2 = allProjects.find((project) => project.slug === "planetfall")!;
-  const top3 = allProjects.find((project) => project.slug === "highstorm")!;
+  const featured = allProjects.find((project) => project.slug === "akinator")!;
+  const top2 = allProjects.find((project) => project.slug === "easyscript")!;
+  const top3 = allProjects.find((project) => project.slug === "subrey")!;
   const sorted = allProjects
     .filter((p) => p.published)
     .filter(
