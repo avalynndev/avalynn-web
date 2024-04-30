@@ -6,8 +6,8 @@ import { Analytics } from "./components/analytics";
 
 export const metadata: Metadata = {
   title: {
-    default: "avalynn.is-a.dev",
-    template: "%s | avalynn.is-a.dev",
+    default: "Konichiwa ❤️‍🩹",
+    template: "%s",
   },
   description: "Building a website that can be used to watch anime anytime.",
   openGraph: {
